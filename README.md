@@ -1,4 +1,4 @@
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm Kaleb/Butter (He/Him)! 👋
 
 I am a passionate CS student at Bridgeway Academy. I love coding and I love working hard to learn!
 
