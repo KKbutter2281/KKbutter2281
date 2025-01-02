@@ -7,12 +7,7 @@ I am a passionate CS student at Bridgeway Academy. I love coding and I love work
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my High School Diploma at Bridgeway Academy.
-- 📝 I am working on 
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- 🌐 Proud staff at [Sahara Compute](https://saharacompute.com).
 
 
 ## Tech Stack
