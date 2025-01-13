@@ -26,5 +26,5 @@ I am a passionate CS student at Bridgeway Academy. I love coding and I love work
 
 - Go ahead and check out my [website](https://kkbutter.me)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! 🚀
 
