@@ -6,8 +6,7 @@ I am a passionate CS student at Bridgeway Academy. I love coding and I love work
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my High School Diploma at Bridgeway Academy.
-- 🌐 Proud staff at [Sahara Compute](https://saharacompute.com).
+- 🔭 I'm currently pursuing my High School Diploma at Bridgeway Academy!
 
 
 ## Tech Stack
