@@ -18,7 +18,7 @@ I am a passionate CS student at Bridgeway Academy. I love coding and I love work
 
  ## 🏆 Achievements
 
-- 🌟 National Merit Semifinalist - Top 1% Of All HS Seniors Statewide
+- 🌟 National Merit Finalist - Top 1% Of All HS Seniors Statewide
 
 
 ## 📬 Get in Touch
